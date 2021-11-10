@@ -1,0 +1,45 @@
+.fineprint {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #999999;
+}
+.fineprint a{
+	color: #0099CC;
+}
+.body12black {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	list-style-type: square;
+}
+.body12black a{
+     font-weight: bold;
+	 color: #000099;
+}
+.heading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #B60000;
+}
+.heading a{
+	color: #B60000;
+}
+.headingblack {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+}
+.body10black {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.body10black a{
+     font-weight: bold;
+	 color: #000099;
+}.strokeblack {
+	border: 1px solid #000000;
+}
